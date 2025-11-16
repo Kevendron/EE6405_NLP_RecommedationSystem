@@ -20,6 +20,7 @@ This project implements a comprehensive recommendation pipeline from data prepro
 ├── data_preprocessing/
 │   ├── data_preprocessing.py
 ├── model_training/
+    ├── Single_Tower_Model_Architecture.py
 └── deployment/
     ├── app.py
     ├── requirements.txt
