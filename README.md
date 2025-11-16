@@ -19,6 +19,7 @@ This project implements a comprehensive recommendation pipeline from data prepro
 .
 ├── data_preprocessing/
 │   ├── data_preprocessing.py
+│   └── convert_parquet_to_json.py
 ├── model_training/
     ├── Single_Tower_Model_Architecture.py
 └── deployment/
